@@ -7,5 +7,5 @@
 | Doubly Linked Lists | [Click Here](https://github.com/RheagalFire/Python_Data_Structures/blob/main/Doubly_Linked_Lists.ipynb) |
 | Stacks              | [Click Here](https://github.com/RheagalFire/Python_Data_Structures/blob/main/Stacks.ipynb) |
 | Queue               | [Click Here](https://github.com/RheagalFire/Python_Data_Structures/blob/main/Queue.ipynb) | 
-
+| Graph               | [Click Here](https://github.com/RheagalFire/Python_Data_Structures/blob/main/Graph.ipynb) |
 This repo is in production and will be regularly updated(probably)
